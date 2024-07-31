@@ -3,7 +3,7 @@
 ## Pre Lab Exam
 This repository is meant for you to prepare your environment for the Lab Exam.
 
-Clone this repo and add set it up in your IDE such that you can ***run*** and ***test*** the provided code with ***coverage***.
+Clone this repo and set it up in your IDE such that you can ***run*** and ***test*** the provided code with ***coverage***.
 
 Preserve the repository status within your IDE. Meaning that your IDE should edit and save files in the ***same folder as your repo***.  
 
