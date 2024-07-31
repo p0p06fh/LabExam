@@ -11,7 +11,7 @@ At the beginning of your Lab Exam this repo will be updated.
 
 If you have set it up correctly you should be able to **PULL** the new code into your repo and IDE while preserving the configurations you made to run and test this repo.
 
-The less time you spend getting this repo and your testing to run the more time you have to work on the lab exam.
+The less time you spend getting, testing and setting up your exam, the more time you have to work on the lab exam.
 
 ## Notes and Resources
 1. You have access to all course material available in Brightspace.
