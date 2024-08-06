@@ -1,8 +1,8 @@
 # CST8132 322 Lab Exam
 
-Student #:
+Student #: Prem Anilkumar Patel
 
-Student Name:
+Student Name:041135086
 
 ## Notes and Resources
 1. You have access to all course material available in Brightspace.
