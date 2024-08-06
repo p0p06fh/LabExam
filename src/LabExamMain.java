@@ -1,7 +1,9 @@
 public class LabExamMain {
     public static void main(String[] args) {
-        HelloWorld h = new HelloWorld();
+        // Make multiple Students of Each Type using Factory
 
-        System.out.println(h.sayHello());
+        // Store Students in a Collection
+
+        // Iterate through Collection and print Students with GPA above 50%
     }
 }
