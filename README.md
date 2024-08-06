@@ -12,12 +12,12 @@ Student Name:
 ## Lab Exam Instructions
 1. Fill in your name and ID above.
 2. Use git and demonstrate your understanding of git as you complete each of the following tasks.
-2.1. Create a **PRIVATE** repo under your own personal Github account named `CST8132LabExam`
-2.2. Add myself as a collaborator with read access to that repo (https://github.com/jeresiv).
-2.2. Connect this repository to your new private repository using a remote.
-2.2. As you complete each task make a commit with a message referring to the task name. **You may add more than 4 commits to your repo**
-2.3. To submit: Push your code to the personal `CST8132LabExam` repository you created earlier. Verify that the contents of your repo are actually on the Github website.
-2.4. In Brightspace provide a link to your private repository.
+    - Create a **PRIVATE** repo under your own personal Github account named `CST8132LabExam`
+    - Add myself as a collaborator with read access to that repo (https://github.com/jeresiv).
+    - Connect this repository to your new private repository using a remote.
+    - As you complete each task make a commit with a message referring to the task name. **You may add more than 4 commits to your repo**
+    - To submit: Push your code to the personal `CST8132LabExam` repository you created earlier. Verify that the contents of your repo are actually on the Github website.
+    - In Brightspace provide a link to your private repository.
 3. If you cannot get git to work you may zip your repository and submit it through Brightspace instead of a link to your repo. **Submission through Github is worth 20% [5 marks] of your exam.**
 
 ### Task 1 - Inheritance and Students
