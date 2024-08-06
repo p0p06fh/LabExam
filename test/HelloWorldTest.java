@@ -10,4 +10,9 @@ public class HelloWorldTest {
 
         assertEquals("Hello World!", h.sayHello());
     }
+
+	private void assertEquals(String string, String sayHello) {
+		
+		
+	}
 }
