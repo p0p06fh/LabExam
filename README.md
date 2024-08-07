@@ -1,8 +1,8 @@
 # CST8132 322 Lab Exam
 
-Student #:
+Student #:041135086
 
-Student Name:
+Student Name: Prem Anilkumar Patel
 
 ## Notes and Resources
 1. You have access to all course material available in Brightspace.
@@ -25,8 +25,12 @@ Student Name:
 2. Demonstrate Constructor Chaining.
 3. Add 1 new Student Class and complete their functionality.
 4. ***BONUS*** How can we refactor this package to decrease redundant code? Describe the changes here:
-5. ***BONUS*** Implement your described changes.
-6. ***BONUS*** Create a third type of Student and include it in subsequent functionality.
+ ANS  Refactor common properties and methods into an abstract base class (AbstractStudent).
+Create a ParttimeStudent class as the third type of student.
+6. ***BONUS*** Implement your described changes.
+  ANS We'll create an abstract base class called AbstractStudent to encapsulate common properties and methods. Then, our specific student classes (FulltimeStudent and ParttimeStudent) will extend this abstract class.
+8. ***BONUS*** Create a third type of Student and include it in subsequent functionality.
+   
 
 ### Task 2 - Factory Design Pattern
 1. Complete the `StudentFactory` class using the Factory Design Pattern.
